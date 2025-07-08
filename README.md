@@ -1,4 +1,4 @@
-# Kunal Kumar: Portfolio of Quantitative Finance & Mathematical Research
+# Kunal Kumar: Solving Market Puzzles with Math, Code & Curiosity
 
 🎓 Final-Year Dual Degree Student, IIT Kharagpur (Mathematics & Computing)  
 📌 Micro-specialization in Optimization Theory and Applications  

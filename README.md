@@ -45,10 +45,6 @@ I’ve contributed to research, internships, and freelance projects involving al
 Designed high-difficulty mathematical problems inspired by IMO, IOM & Codeforces 2400+ level.  
 **Skills**: Number Theory · Combinatorics · Algebra
 
-### 📌 Outlier (Remote) | Mathematics Expert | Dec 2024 – Feb 2025  
-Contributed discrete math and problem design for academic challenges.  
-**Skills**: Discrete Mathematics · Mathematical Problem Solving
-
 ### 📌 Amazon ML Summer School | Trainee | Jul 2024 – Aug 2024  
 Attended focused sessions on machine learning and applied AI in financial markets.  
 **Skills**: Machine Learning · Python · AI
@@ -70,20 +66,9 @@ Built 100+ alpha models with Sharpe > 1.25 for US and China markets, maintaining
 Led India’s top undergraduate finance club, organizing case studies, workshops, and research discussions.  
 **Skills**: Financial Modeling · Team Leadership · Analytical Thinking
 
-### 📌 PIMCO Prep Program | Trainee | Mar 2023 – May 2023  
-Explored global macroeconomics, ESG investing, and career tracks in buy-side asset management.
-
-### 📌 Indxx (Remote) | Quantitative Research Intern | Jan 2023 – Apr 2023  
+### 📌 Indxx (New Delhi) | Quantitative Research Intern | Jan 2023 – Apr 2023  
 Worked on optimization-based portfolio strategies using hybrid heuristics like PSO and SA.  
 **Skills**: Optimization · ML · Finance · Python
-
-### 📌 Communiqué, IIT Kharagpur | Secretary | Aug 2021 – Aug 2022  
-Led tech and event teams for the institute’s official media body, hosting 12,000+ students.  
-**Skills**: Web Development · Leadership · HTML/CSS · MongoDB
-
-### 📌 IIT Kharagpur | Research Intern | Apr 2022 – Jun 2022  
-Built an autonomous computer vision–powered solar panel cleaning bot.  
-**Skills**: C++ · MATLAB · Embedded Systems · Computer Vision
 
 ---
 

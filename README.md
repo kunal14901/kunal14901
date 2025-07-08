@@ -96,7 +96,7 @@ Modeling implied vol spreads between NIFTY and BankNIFTY with ML-based z-score f
 
 ## 🏆 Achievements
 
-- International Rank 3 – 8th IMO(2015), Rank 4 – 10th IMO(2016)
+- International Rank 3 – 8th IMO, Rank 4 – 10th IMO (2015)
 - Awarded **INSPIRE Scholarship** by Govt. of India  
 - Designed 40+ advanced math problems for global math Olympiads and platforms  
 - WorldQuant Challenge – **Gold Certificate** Holder  

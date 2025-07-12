@@ -14,7 +14,7 @@
 
 I am an aspiring quantitative researcher and trader with experience spanning high-frequency trading strategies, market microstructure modeling, and robust portfolio optimization. I enjoy solving challenging problems using mathematics, code, and financial insights.
 
-I’ve contributed to research, internships, and freelance projects involving alpha generation, risk-aware order execution, and covariance estimation. I’m also an IMO/IOM medalist and problem setter with experience crafting high-difficulty mathematical problems.
+I’ve contributed to research, internships, and freelance projects involving alpha generation, risk-aware order execution, and covariance estimation. I’m also a problem setter with experience crafting high-difficulty mathematical problems.
 
 ---
 

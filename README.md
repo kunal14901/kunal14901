@@ -92,17 +92,5 @@ Backtested adaptive expiry-day straddles with IV-aware filters and stop-loss log
 ### 🔄 [Volatility Pairs Trading](https://github.com/kunal14901/Volatility-Pairs-Trading)  
 Modeling implied vol spreads between NIFTY and BankNIFTY with ML-based z-score filters.
 
----
-
-## 🏆 Achievements
-
-- International Rank 3 – 8th IMO, Rank 4 – 10th IMO (2015) organized by SOF
-- Awarded **INSPIRE Scholarship** by Govt. of India  
-- Designed 40+ advanced math problems for global math Olympiads and platforms  
-- WorldQuant Challenge – **Gold Certificate** Holder  
-- Selected for **Akuna Capital Options 201 & 101 Training**
-
----
-
 🧠 *"Math is my language. Code is my tool. Markets are my playground."*
 

@@ -1,6 +1,6 @@
 # Kunal Kumar: Solving Market Puzzles with Math, Code & Curiosity
 
-🎓 Final-Year Dual Degree Student, IIT Kharagpur (Mathematics & Computing)  
+🎓 Graduate, IIT Kharagpur (Mathematics & Computing)  
 📌 Micro-specialization in Optimization Theory and Applications  
 📈 Passionate about Quantitative Trading, Portfolio Optimization, and Algorithmic Research
 

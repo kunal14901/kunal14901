@@ -200,8 +200,9 @@ Mar 2023–Apr 24 │  Kharagpur Investment Group     │  Executive Head
 
 <div align="center">
 
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunal14901&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal14901&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunal14901&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/kunal14901)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal14901&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/kunal14901)
 
 </div>
 

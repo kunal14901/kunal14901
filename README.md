@@ -196,11 +196,17 @@ Mar 2023–Apr 24 │  Kharagpur Investment Group     │  Executive Head
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunal14901&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/kunal14901)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kunal14901&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kunal14901?label=Followers&style=flat&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/kunal14901?label=Stars&style=flat&color=blue" alt="Stars" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal14901&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/kunal14901)
+**Active in:** Quantitative Finance · Algorithmic Trading · Portfolio Optimization · ML in Markets
+
+**Languages:** Python (primary) · Java · C++ · JavaScript · MATLAB
 
 ---
 

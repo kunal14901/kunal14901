@@ -27,11 +27,7 @@ kunal = {
     "specialization": "Optimization Theory · Stochastic Processes",
     "current_role": "Development Engineer @ Standard Chartered GBS, Bengaluru",
     "research":     "JFQA submission — Heavy Tails & Break-Even Factor Models",
-    "building":     [
-        "KA-MATS (9-agent trading — equity + crypto)",
-        "KA-MATS Crypto (public repo — spot, CCXT, validated backtests)",
-        "VERIQ (verified-identity marketplace)",
-    ],
+    "building":     ["KA-MATS (9-agent autonomous trading system)", "KA-MATS Crypto (public — github.com/kunal14901/ka-mats-crypto)", "VERIQ (verified-identity marketplace)"],
     "interests":    ["Quantitative Finance", "Algorithmic Trading", "ML in Markets", "Portfolio Theory"],
     "location":     "Bengaluru, India 🇮🇳",
 }
@@ -46,7 +42,7 @@ kunal = {
 | 📐 Researcher | 💻 Engineer | 📈 Builder |
 |:---:|:---:|:---:|
 | Co-authored JFQA paper on heavy-tail factor models introducing **TASR = θ̂/√κᵥ** | Java backend · NestJS · FastAPI · CI/CD pipelines | Founder of **VERIQ** & **Iknir Capital** |
-| Robust GLASSO → **22% lower estimation error**, **18% Sharpe lift** | 100+ alpha models with Sharpe > 1.25 at WorldQuant | 9-agent stack: **KA-MATS** (equity) + **[KA-MATS Crypto](https://github.com/kunal14901/ka-mats-crypto)** (public) |
+| Robust GLASSO → **22% lower estimation error**, **18% Sharpe lift** | 100+ alpha models with Sharpe > 1.25 at WorldQuant | 9-agent autonomous trading system (KA-MATS) |
 | Deep Q-Network stat arb → **33% outperformance** vs classical models | Spring Boot · Python · GraphRAG · FAISS | Aadhaar-verified social experience marketplace |
 
 </div>
@@ -78,18 +74,17 @@ where $\hat{\theta}$ is the estimated factor premium and $\kappa_v$ is the exces
 <tr>
 <td width="50%">
 
-### 🤖 KA-MATS · Iknir Capital
-*9-agent autonomous trading stack*
+### 🤖 KA-MATS Trading System
+*9-agent autonomous trading · Iknir Capital*
+- RAYA as CEO orchestrator
+- GraphRAG + FAISS memory architecture
+- BM25 regime-conditioned signal decay
+- v17: regime-aware adaptive learning, defensive ETF routing (XLV/GLD/TLT)
+- Full 2012–2026 backtest pipeline
+- **KA-MATS Crypto** — spot crypto stack (CCXT, paper/testnet/live) · [github.com/kunal14901/ka-mats-crypto](https://github.com/kunal14901/ka-mats-crypto)
 
-**[KA-MATS Crypto](https://github.com/kunal14901/ka-mats-crypto)** *(public)*  
-Multi-agent crypto engine · deterministic signals · Binance/Bybit spot (CCXT) · paper/testnet/live · walk-forward validation docs in-repo.
-
-[![Repo](https://img.shields.io/badge/GitHub-ka--mats--crypto-3b82f6?style=flat-square&logo=github)](https://github.com/kunal14901/ka-mats-crypto)
-
-**KA-MATS (equity)** *(private research)*  
-RAYA orchestrator · GraphRAG + FAISS · BM25 regime-conditioned memory · defensive routing
-
-[![Private](https://img.shields.io/badge/Private-Research-555?style=flat-square&logo=github)](https://github.com/kunal14901)
+[![Repo](https://img.shields.io/badge/Private-Research-555?style=flat-square&logo=github)](https://github.com/kunal14901)
+[![Repo](https://img.shields.io/badge/ka--mats--crypto-Public-3b82f6?style=flat-square&logo=github)](https://github.com/kunal14901/ka-mats-crypto)
 
 </td>
 <td width="50%">
@@ -152,7 +147,7 @@ NIFTY/BankNIFTY IV spread with ML z-scores
                 │  Java backend · document gen · CI/CD · vulnerability mgmt
 ─────────────────┼──────────────────────────────────────────────────────────
 2024 – 2025     │  Freelance / Iknir Capital      │  Quant & Software Projects
-                │  Algo trading systems · KA-MATS · KA-MATS Crypto · Noah Toussaint XAUUSD alerts
+                │  Algo trading systems · KA-MATS · Noah Toussaint XAUUSD alerts
 ─────────────────┼──────────────────────────────────────────────────────────
 Oct 2023–Jul 24 │  Edinburgh Napier University    │  Quant Research Fellow
                 │  Robust GLASSO · MCD estimator · 22% lower estimation error

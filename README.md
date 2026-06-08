@@ -143,10 +143,10 @@ NIFTY/BankNIFTY IV spread with ML z-scores
 ## 💼 Experience
 
 ```
-2025 – present  │  Standard Chartered GBS        │  Development Engineer
+2024 – 2026  │  Standard Chartered GBS        │  Development Engineer
                 │  Java backend · document gen · CI/CD · vulnerability mgmt
 ─────────────────┼──────────────────────────────────────────────────────────
-2024 – 2025     │  Freelance / Iknir Capital      │  Quant & Software Projects
+2024 – 2024     │  Freelance / Iknir Capital      │  Quant & Software Projects
                 │  Algo trading systems · KA-MATS · Noah Toussaint XAUUSD alerts
 ─────────────────┼──────────────────────────────────────────────────────────
 Oct 2023–Jul 24 │  Edinburgh Napier University    │  Quant Research Fellow

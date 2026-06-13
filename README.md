@@ -1,212 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=header" width="100%"/>
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║   K U N A L   K U M A R   —   Quant · Engineer · Builder        ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+# Kunal Kumar
+**Quant · Engineer · Builder**
 
-### *Solving Market Puzzles with Math, Code & Curiosity*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kumar-9aa708200)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iknir1234@gmail.com)
+[![IIT KGP](https://img.shields.io/badge/IIT_Kharagpur-003087?style=flat-square&logo=academia&logoColor=white)](https://www.iitkgp.ac.in/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kumar-9aa708200)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal14901)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iknir1234@gmail.com)
-[![IIT KGP](https://img.shields.io/badge/IIT_Kharagpur-003087?style=for-the-badge&logo=academia&logoColor=white)](https://www.iitkgp.ac.in/)
+M.Sc. Mathematics & Computing · IIT Kharagpur · CGPA 8.38/10
 
 </div>
 
 ---
 
-## `whoami`
+## Projects
 
-```python
-kunal = {
-    "education":    "IIT Kharagpur — M.Sc. Mathematics & Computing (CGPA: 8.38/10)",
-    "specialization": "Optimization Theory · Stochastic Processes",
-    "current_role": "Development Engineer @ Standard Chartered GBS, Bengaluru",
-    "research":     "JFQA submission — Heavy Tails & Break-Even Factor Models",
-    "building":     ["KA-MATS (9-agent autonomous trading system)"],
-    "interests":    ["Quantitative Finance", "Algorithmic Trading", "ML in Markets", "Portfolio Theory"],
-    "location":     "Bengaluru, India 🇮🇳",
-}
-```
+### 🤖 [KA-MATS](https://github.com/kunal14901/KA-MATS) — 9-Agent Crypto Trading System
+9 specialised agents · swarm consensus vote · Solana DEX integration  
+**v15 backtest (2020–2026):** Sharpe 1.38 · CAGR 91% · 504 tests
 
----
+### 📉 [Statistical Arbitrage with RL](https://github.com/kunal14901/Statistical-Arbitrage-with-RL-Master-s-Thesis)
+Deep Q-Network pair trading · +33% over classical cointegration
 
-## 🧠 Research & Publications
+### 🧠 [Neural Black-Litterman](https://github.com/kunal14901/kunal14901-black-litterman-neural-network)
+Q-learning + Black-Litterman · 21.25% annual return · Sharpe 1.10
 
-### 📄 Heavy Tails & Break-Even Factor Models *(JFQA — Under Review)*
-> Co-authors: Prof. Sujoy Bhattacharya (IIT KGP) · Prof. Eidenberg (Edinburgh Napier University)
+### 🏦 [Optimal Order Execution](https://github.com/kunal14901/Optimal-Order-Placement-in-Limit-Order-Markets)
+TWAP/VWAP with real limit order book data
 
-Introduces **TASR** (Tail-Adjusted Sharpe Ratio):
-
-$$\text{TASR} = \frac{\hat{\theta}}{\sqrt{\kappa_v}}$$
-
-where $\hat{\theta}$ is the estimated factor premium and $\kappa_v$ is the excess kurtosis of the return distribution. This metric corrects for heavy-tail risk that classical Sharpe ratios systematically underestimate.
-
-### 📄 Statistical Arbitrage using Reinforcement Learning *(Master's Thesis)*
-> Deep Q-Network–based pair trading system · **+33% over classical cointegration models**
-
-### 📄 Neural Black-Litterman Portfolio Optimization *(Master's Thesis)*
-> Q-learning + Black-Litterman view integration · **21.25% annual return · Sharpe 1.10**
-
----
-
-## 🚀 Key Projects
-
-<table>
-<tr>
-<td colspan="2">
-
-### 🤖 KA-MATS — 9-Agent Autonomous Crypto Trading System
-*Production-grade multi-agent architecture · Iknir Capital*
-
-- **RAYA** as CEO orchestrator · 9 specialised agents collaborating via swarm consensus
-- **Swarm Voter** — 5-agent quorum gate (AdversarialAgent · LLMValidator · BayesianEV · RegimeAlignment · ConfidenceGate)
-- **Solana/Jupiter DEX** integration — on-chain flow intelligence
-- BM25 + GraphRAG memory · regime-conditioned signal decay · adaptive circuit breaker
-- **v15 backtest (2020–2026):** Sharpe 1.38 · CAGR 91% · MaxDD 40% · 504 unit tests · 62% coverage
-
-[![Repo](https://img.shields.io/badge/KA--MATS-Public-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal14901/KA-MATS)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📉 Statistical Arbitrage with RL
-Deep Q-Network for pair trading
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/kunal14901/Statistical-Arbitrage-with-RL-Master-s-Thesis)
-
-</td>
-<td width="50%">
-
-### 🧠 Neural Black-Litterman
-Q-learning + BL views · Sharpe 1.10
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/kunal14901/kunal14901-black-litterman-neural-network)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏦 Optimal Order Execution
-TWAP/VWAP with real LOB data
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/kunal14901/Optimal-Order-Placement-in-Limit-Order-Markets)
-
-</td>
-<td width="50%">
-
-### 🔄 Volatility Pairs Trading
+### 🔄 [Volatility Pairs Trading](https://github.com/kunal14901/Volatility-Pairs-Trading)
 NIFTY/BankNIFTY IV spread with ML z-scores
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/kunal14901/Volatility-Pairs-Trading)
+---
 
-</td>
-</tr>
-</table>
+## Research
+
+- **Heavy Tails & Break-Even Factor Models** *(JFQA — Under Review)*  
+  Co-authors: Prof. S. Bhattacharya (IIT KGP) · Prof. Eidenberg (Edinburgh Napier)
+
+- **Statistical Arbitrage using RL** · **Neural Black-Litterman Optimization** *(Master's Theses)*
 
 ---
 
-## 💼 Experience
+## Experience
 
-```
-2024 – 2026  │  Standard Chartered GBS        │  Development Engineer
-             │  Java backend · document gen · CI/CD · vulnerability mgmt
-─────────────┼──────────────────────────────────────────────────────────
-2024 – 2024  │  Freelance / Iknir Capital      │  Quant & Software Projects
-             │  Algo trading systems · KA-MATS · Noah Toussaint XAUUSD alerts
-─────────────┼──────────────────────────────────────────────────────────
-2023–2024    │  Edinburgh Napier University    │  Quant Research Fellow
-             │  Robust GLASSO · MCD estimator · 22% lower estimation error
-─────────────┼──────────────────────────────────────────────────────────
-2024         │  WorldQuant                     │  Research Consultant
-             │  100+ alphas · Sharpe > 1.25 · US & China markets
-─────────────┼──────────────────────────────────────────────────────────
-2023         │  Indxx (New Delhi)              │  Quant Research Intern
-             │  PSO · Simulated Annealing · optimization-based portfolios
-─────────────┼──────────────────────────────────────────────────────────
-2023–2024    │  Kharagpur Investment Group     │  Executive Head
-             │  India's top undergraduate finance club
-```
+| Period | Organisation | Role |
+|---|---|---|
+| 2024–2026 | Standard Chartered GBS | Development Engineer |
+| 2024 | WorldQuant | Research Consultant — 100+ alphas, Sharpe > 1.25 |
+| 2023–2024 | Edinburgh Napier University | Quant Research Fellow |
+| 2023 | Indxx | Quant Research Intern |
 
 ---
 
-## 🛠 Tech Stack
+## Stack
+
+`Python` `Java` `C++` `PyTorch` `scikit-learn` `NumPy` `Spring Boot` `FastAPI` `Docker` `Git`
+
+---
 
 <div align="center">
 
-**Languages**
+📧 iknir1234@gmail.com
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-**Quant & ML**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Engineering**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+*Open to quant research roles and algorithmic trading collaborations.*
 
 </div>
 
----
-
-## 📊 Activity
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kunal14901&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/kunal14901?label=Followers&style=flat&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/kunal14901?label=Stars&style=flat&color=blue" alt="Stars" />
-</p>
-
-**Active in:** Quantitative Finance · Algorithmic Trading · Portfolio Optimization · ML in Markets
-
-**Languages:** Python (primary) · Java · C++ · JavaScript · MATLAB
-
----
-
-## 🏆 Certifications
-
-- 🎯 **Akuna Capital** — Options 201 & Options 101
-- 📊 **Yale/Coursera** — Financial Markets
-- 📈 **FMI** — Equities & Fixed Income Overview
-- 🤖 **MathWorks** — MATLAB, ML & Signal Processing Onramp
-- 📉 **Coursera** — Predictive Modeling using Facebook Prophet
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-*Open to quant research roles, collaborations on algorithmic trading, and interesting problems at the intersection of math and markets.*
-
-📧 **iknir1234@gmail.com** · 📞 **+91 7732848504**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kumar-9aa708200)
-
-> *"Math is my language. Code is my tool. Markets are my playground."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=60&section=footer" width="100%"/>

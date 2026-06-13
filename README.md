@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iknir1234@gmail.com)
 [![IIT KGP](https://img.shields.io/badge/IIT_Kharagpur-003087?style=flat-square&logo=academia&logoColor=white)](https://www.iitkgp.ac.in/)
 
-M.Sc. Mathematics & Computing · IIT Kharagpur · CGPA 8.38/10
+M.Sc. Mathematics & Computing · IIT Kharagpur
 
 </div>
 

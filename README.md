@@ -27,7 +27,7 @@ kunal = {
     "specialization": "Optimization Theory · Stochastic Processes",
     "current_role": "Development Engineer @ Standard Chartered GBS, Bengaluru",
     "research":     "JFQA submission — Heavy Tails & Break-Even Factor Models",
-    "building":     ["KA-MATS (9-agent autonomous trading system)", "KA-MATS Crypto (public — github.com/kunal14901/ka-mats-crypto)", "VERIQ (verified-identity marketplace)"],
+    "building":     ["KA-MATS (9-agent autonomous trading system)"],
     "interests":    ["Quantitative Finance", "Algorithmic Trading", "ML in Markets", "Portfolio Theory"],
     "location":     "Bengaluru, India 🇮🇳",
 }

@@ -33,6 +33,7 @@ kunal = {
 }
 ```
 
+---
 
 ## 🧠 Research & Publications
 
@@ -57,31 +58,18 @@ where $\hat{\theta}$ is the estimated factor premium and $\kappa_v$ is the exces
 
 <table>
 <tr>
-<td width="50%">
+<td colspan="2">
 
-### 🤖 KA-MATS Trading System
-*9-agent autonomous trading · Iknir Capital*
-- RAYA as CEO orchestrator
-- GraphRAG + FAISS memory architecture
-- BM25 regime-conditioned signal decay
-- v17: regime-aware adaptive learning, defensive ETF routing (XLV/GLD/TLT)
-- Full 2012–2026 backtest pipeline
-- **KA-MATS Crypto** — spot crypto stack (CCXT, paper/testnet/live) · [github.com/kunal14901/ka-mats-crypto](https://github.com/kunal14901/ka-mats-crypto)
+### 🤖 KA-MATS — 9-Agent Autonomous Crypto Trading System
+*Production-grade multi-agent architecture · Iknir Capital*
 
-[![Repo](https://img.shields.io/badge/Private-Research-555?style=flat-square&logo=github)](https://github.com/kunal14901)
-[![Repo](https://img.shields.io/badge/ka--mats--crypto-Public-3b82f6?style=flat-square&logo=github)](https://github.com/kunal14901/ka-mats-crypto)
+- **RAYA** as CEO orchestrator · 9 specialised agents collaborating via swarm consensus
+- **Swarm Voter** — 5-agent quorum gate (AdversarialAgent · LLMValidator · BayesianEV · RegimeAlignment · ConfidenceGate)
+- **Solana/Jupiter DEX** integration — on-chain flow intelligence
+- BM25 + GraphRAG memory · regime-conditioned signal decay · adaptive circuit breaker
+- **v15 backtest (2020–2026):** Sharpe 1.38 · CAGR 91% · MaxDD 40% · 504 unit tests · 62% coverage
 
-</td>
-<td width="50%">
-
-### 🔐 VERIQ
-*India's first verified-host social experience marketplace*
-- Aadhaar-based identity verification
-- 10-member team · iknir software solutions pvt. ltd.
-- Incorporated Jan 2026, Bengaluru
-- DPIIT Startup Recognition application
-
-[![Startup](https://img.shields.io/badge/Startup-DPIIT-FF6B00?style=flat-square)](https://github.com/kunal14901)
+[![Repo](https://img.shields.io/badge/KA--MATS-Public-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal14901/KA-MATS)
 
 </td>
 </tr>
@@ -129,22 +117,22 @@ NIFTY/BankNIFTY IV spread with ML z-scores
 
 ```
 2024 – 2026  │  Standard Chartered GBS        │  Development Engineer
-                │  Java backend · document gen · CI/CD · vulnerability mgmt
-─────────────────┼──────────────────────────────────────────────────────────
-2024 – 2024     │  Freelance / Iknir Capital      │  Quant & Software Projects
-                │  Algo trading systems · KA-MATS · Noah Toussaint XAUUSD alerts
-─────────────────┼──────────────────────────────────────────────────────────
-Oct 2023–Jul 24 │  Edinburgh Napier University    │  Quant Research Fellow
-                │  Robust GLASSO · MCD estimator · 22% lower estimation error
-─────────────────┼──────────────────────────────────────────────────────────
-Feb–May 2024    │  WorldQuant                     │  Research Consultant
-                │  100+ alphas · Sharpe > 1.25 · US & China markets
-─────────────────┼──────────────────────────────────────────────────────────
-Jan–Apr 2023    │  Indxx (New Delhi)              │  Quant Research Intern
-                │  PSO · Simulated Annealing · optimization-based portfolios
-─────────────────┼──────────────────────────────────────────────────────────
-Mar 2023–Apr 24 │  Kharagpur Investment Group     │  Executive Head
-                │  India's top undergraduate finance club
+             │  Java backend · document gen · CI/CD · vulnerability mgmt
+─────────────┼──────────────────────────────────────────────────────────
+2024 – 2024  │  Freelance / Iknir Capital      │  Quant & Software Projects
+             │  Algo trading systems · KA-MATS · Noah Toussaint XAUUSD alerts
+─────────────┼──────────────────────────────────────────────────────────
+2023–2024    │  Edinburgh Napier University    │  Quant Research Fellow
+             │  Robust GLASSO · MCD estimator · 22% lower estimation error
+─────────────┼──────────────────────────────────────────────────────────
+2024         │  WorldQuant                     │  Research Consultant
+             │  100+ alphas · Sharpe > 1.25 · US & China markets
+─────────────┼──────────────────────────────────────────────────────────
+2023         │  Indxx (New Delhi)              │  Quant Research Intern
+             │  PSO · Simulated Annealing · optimization-based portfolios
+─────────────┼──────────────────────────────────────────────────────────
+2023–2024    │  Kharagpur Investment Group     │  Executive Head
+             │  India's top undergraduate finance club
 ```
 
 ---

@@ -19,7 +19,7 @@ M.Sc. Mathematics & Computing · IIT Kharagpur · CGPA 8.38/10
 
 ### 🤖 [KA-MATS](https://github.com/kunal14901/KA-MATS) — 9-Agent Crypto Trading System
 9 specialised agents · swarm consensus vote · Solana DEX integration  
-**Backtest (2020–2026):** Sharpe 1.38 · CAGR 91% · 504 tests
+**Backtest (2020–2026):** Sharpe 1.38 · CAGR 71.8% · 504 tests
 
 ### 📉 [Statistical Arbitrage with RL](https://github.com/kunal14901/Statistical-Arbitrage-with-RL-Master-s-Thesis)
 Deep Q-Network pair trading · +33% over classical cointegration

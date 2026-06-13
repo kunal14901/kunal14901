@@ -33,21 +33,6 @@ kunal = {
 }
 ```
 
----
-
-## ⚡ At a Glance
-
-<div align="center">
-
-| 📐 Researcher | 💻 Engineer | 📈 Builder |
-|:---:|:---:|:---:|
-| Co-authored JFQA paper on heavy-tail factor models introducing **TASR = θ̂/√κᵥ** | Java backend · NestJS · FastAPI · CI/CD pipelines | Founder of **VERIQ** & **Iknir Capital** |
-| Robust GLASSO → **22% lower estimation error**, **18% Sharpe lift** | 100+ alpha models with Sharpe > 1.25 at WorldQuant | 9-agent autonomous trading system (KA-MATS) |
-| Deep Q-Network stat arb → **33% outperformance** vs classical models | Spring Boot · Python · GraphRAG · FAISS | Aadhaar-verified social experience marketplace |
-
-</div>
-
----
 
 ## 🧠 Research & Publications
 

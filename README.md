@@ -44,17 +44,6 @@ NIFTY/BankNIFTY IV spread with ML z-scores
 
 ---
 
-## Experience
-
-| Period | Organisation | Role |
-|---|---|---|
-| 2025–2026 | Standard Chartered GBS | Development Engineer |
-| 2024 | WorldQuant | Research Consultant — 100+ alphas, Sharpe > 1.25 |
-| 2023–2024 | Edinburgh Napier University | Quant Research Fellow |
-| 2023 | Indxx | Quant Research Intern |
-
----
-
 ## Stack
 
 `Python` `Java` `C++` `PyTorch` `scikit-learn` `NumPy` `Spring Boot` `FastAPI` `Docker` `Git`
